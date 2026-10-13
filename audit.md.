@@ -1,0 +1,8 @@
+# README Audit
+
+| README Claim | Audit Result | Evidence |
+|---|---|---|
+| Calculates factorial of 5 | Supported | n is assigned 5 and the loop calculates its factorial. |
+| Prints the factorial result | Supported | The program uses print(). |
+| Accepts user input | Not Supported | The code assigns n = 5 directly. |
+| Uses an external library | Not Supported | No external library is imported. |
